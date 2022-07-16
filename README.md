@@ -2,7 +2,7 @@
 
 ## 1. Link and Preview
 
-Project link is available at [ChatMe](https://github.com/)
+Project link is available at [ChatMe]( https://aligoknl.github.io/Realtime-Chat-App/public/index.html)
 
 ![Preview of ChatMe App!](/public/images/chatme.GIF)
 
@@ -12,7 +12,7 @@ The ChatMe App is a realtime chat application using Socket.io, Node.js and Expre
 
 ## 3. Structure Tree
 
-![ToDo App!](/public/images/appTree.png)
+![ChatMe!](/public/images/appTree.png)
 
 ## 4. Application
 
@@ -36,4 +36,4 @@ The ChatMe App is a realtime chat application using Socket.io, Node.js and Expre
 ## 6. Nice-to Have
 
 - The other users in the sama room will be informed that a user joins or leaves the room.
-# Realtime-Chap-App
+# Realtime-Chat-App
